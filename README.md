@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simongodb
 - 👀 I’m interested in learing what I don't know, which is to say a lot!
 - 🌱 I’m currently learning MongoDB 🍃, Computer Science in general ... 
-- 🙈 I’m looking to collaborate on what I can collaborate on...
 
 
 <!---
